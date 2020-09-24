@@ -1,3 +1,3 @@
-module github.com/zhaopuyang/golang-tts
+module github.com/houaq/golang-tts
 
 go 1.13
